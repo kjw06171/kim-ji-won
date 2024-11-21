@@ -37,10 +37,10 @@
 </details>
 
 
-
+<br>
+ <br>
+ <br>
 ## 🧑‍💻 About MY STATS
- <br>
- <br>
  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast">
 
