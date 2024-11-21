@@ -29,6 +29,6 @@
 </summary>
    <br>
 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" width="4.3%"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black "width="4.3%"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white" width="10.5%">
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" width="4.3%"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="4.3%"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white" width="10.5%">
 
 
