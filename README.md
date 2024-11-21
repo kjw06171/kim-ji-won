@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiwon's_playground%20render&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIWON's GitHub%20render&fontSize=40)
 
 
 # 🌟 Welcome to My GitHub!
