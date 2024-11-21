@@ -37,7 +37,6 @@
 </details>
 
  <br>
- <br>
 
  ## 🧑‍💻 About MY STATS
  <br>
