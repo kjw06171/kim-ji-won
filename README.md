@@ -30,5 +30,5 @@
    <br>
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" width="4.3%"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="11%"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white" width="10.5%"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white" width="7.9%">
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white" width="7.2%"> <img src="https://img.shields.io/badge/autodeskmaya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white" width="14.2%"> <img src="https://img.shields.io/badge/c#-0854C1?style=flat&logo=c#&logoColor=white" width="14.2%">
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white" width="7.2%"> <img src="https://img.shields.io/badge/autodeskmaya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white" width="14.2%">
 
