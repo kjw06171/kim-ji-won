@@ -25,6 +25,6 @@
 
 <details>
 <summary>
-  <img src=<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" width="2%" /> 내가 배우고 싶은 ... 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="2%" /> 내가 배우고 싶은 ... 
 </summary>
    <br>
