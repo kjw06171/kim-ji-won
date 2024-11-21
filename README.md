@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIWON's_GitHub%20render&fontSize=70" width="210%"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIWON's_GitHub%20render&fontSize=70" width="230%"> 
 
 # 🌟 Welcome to My GitHub!
 
