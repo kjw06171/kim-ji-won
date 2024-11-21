@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text="JIWON's GitHub"%20render&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JIWON's</summary>GitHub%20render&fontSize=90)
 
 
 # 🌟 Welcome to My GitHub!
