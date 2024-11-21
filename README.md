@@ -36,8 +36,6 @@
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white" width="7.2%"> <img src="https://img.shields.io/badge/autodeskmaya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white" width="14.2%">
 
 
----
-
 ## 🧑‍💻 About MY STATS
 <img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast">
 
