@@ -21,3 +21,10 @@
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" width="4.5%"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" width="6.8%"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" width="8.3%"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white" width="13%"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width="8.7%"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white" width="10.7%"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" width="14.7%">
 </details>
+
+
+<details>
+<summary>
+  <img src="file:///C:/Users/%EA%B9%80%EC%A7%80%EC%9B%90/Downloads/Fire.webp" alt="Eyes" width="2%" /> 내가 배우고 싶은 ... 
+</summary>
+   <br>
