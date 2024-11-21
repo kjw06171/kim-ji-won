@@ -39,5 +39,6 @@
 ---
 
 ## 🧑‍💻 About MY STATS
-![kjw06171's github stats](https://github-readme-stats.vercel.app/api?username=tnals545&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast">
+
 
