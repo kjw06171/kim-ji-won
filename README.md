@@ -40,7 +40,8 @@
 <br>
  <br>
  <br>
-## 🧑‍💻 About MY STATS
+
+ ## 🧑‍💻 About MY STATS
  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast">
 
