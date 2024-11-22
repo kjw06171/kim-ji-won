@@ -91,7 +91,7 @@
 
 실험 결과는 아래와 같은 막대그래프로 나타납니다:
 
-![스크린샷 2024-11-22 173933](https://github.com/user-attachments/assets/c8572f26-0673-4674-8c93-4888a51b2c57)
+![스크린샷 2024-11-22 173933](https://github.com/user-attachments/assets/d9a75fde-2406-428a-a1b3-719c690204f7)
 <br>
 *예시 그래프: 선택을 바꾼 경우(Change)와 바꾸지 않은 경우(No Change)의 승리 확률 비교.*
 
