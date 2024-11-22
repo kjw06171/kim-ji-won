@@ -50,7 +50,8 @@
 
  <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 프로젝트 소개
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="25" height="2" /> 프로젝트 소개
 </summary>
    <br>
 
