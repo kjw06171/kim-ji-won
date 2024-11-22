@@ -47,7 +47,7 @@
  
 
  ## 🧑‍💻 Project
-
+ <br>
  <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="2%" /> 프로젝트 소개
