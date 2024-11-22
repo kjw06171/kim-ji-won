@@ -86,7 +86,7 @@
 
 #### 🛠️ 사용 기술  
 
-- **언어**: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width="5.7%">  
+- **언어**: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width="7%">  
 - **라이브러리**:  
   - `random`: 자동차 위치 및 플레이어 선택에 랜덤성을 제공.  
   - `matplotlib`: 실험 결과를 막대그래프로 시각화.  
