@@ -40,7 +40,7 @@
 
  ## 🧑‍💻 About MY STATS
  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast">
+<img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast"> ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
  <br>
 
