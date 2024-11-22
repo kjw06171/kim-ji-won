@@ -40,7 +40,7 @@
 
  ## 🧑‍💻 About MY STATS
  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast"> ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+<img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast"> 
 
  <br>
 
@@ -98,3 +98,8 @@
 ##### 예상 결과  
 - **선택을 바꾼 경우**(Change)의 승리 확률은 약 66.7%로, **선택을 유지한 경우**(No Change)는 약 33.3%의 승리 확률을 보입니다.
 - 시뮬레이션을 통해 이 이론적 확률을 실험적으로 검증할 수 있습니다.
+
+ <br>
+
+ ## 🧑‍💻 About Contact
+ <br>
