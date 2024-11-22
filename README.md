@@ -104,5 +104,5 @@
  ## 🧑‍💻 About Contact
 - **Email**: [![Email Badge](https://img.shields.io/badge/Email-kjw06171@gmail.com-blue)](mailto:kjw06171@gmail.com)
 - **GitHub**: [![GitHub Badge](https://img.shields.io/badge/GitHub-your--username-blue)](https://github.com/kjw06171)
-- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/Instagram-your--username-purple)](https://www.instagram.com/apply_97)
+- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/Instagram-your--username-purple)](https://www.instagram.com/apply_96)
 
