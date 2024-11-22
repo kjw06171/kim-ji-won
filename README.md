@@ -42,4 +42,17 @@
  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=kjw06171&show_icons=true&theme=highcontrast">
 
+ <br>
+
+ 
+
+ ## 🧑‍💻 Project
+
+ <details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 프로젝트 소개
+</summary>
+   <br>
+
+
 
