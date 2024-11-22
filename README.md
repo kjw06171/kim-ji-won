@@ -117,13 +117,7 @@
 
 여러분의 기여를 기다립니다! 😊
 
-## 📊 GitHub 통계
 
-- **커밋 활동**: ![GitHub Commits](https://img.shields.io/github/commit-activity/m/kjw06171/your-repository)
-- **GitHub 스타**: ![GitHub Stars](https://img.shields.io/github/stars/kjw06171/your-repository?style=social)
-- **풀 리퀘스트**: ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kjw06171/your-repository)
-- **포크 수**: ![GitHub Forks](https://img.shields.io/github/forks/kjw06171/your-repository?style=social)
-- **기여자 수**: ![GitHub Contributors](https://img.shields.io/github/contributors/kjw06171/your-repository)
 
 
 
