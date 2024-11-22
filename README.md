@@ -48,7 +48,7 @@
 
  ## 🧑‍💻 Project
  <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="2%" /> 프로젝트 소개
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="2%" 프로젝트 소개
 
 이 프로젝트는 몬티홀 문제(Monty Hall Problem)를 시뮬레이션하고, 두 가지 전략(선택 유지 vs 선택 변경)의 승리 확률을 비교하는 프로그램입니다. 사용자가 실험 횟수를 입력하면 시뮬레이션을 실행하고, 결과를 막대그래프로 시각화합니다. 이를 통해 이론적 확률과 실제 결과의 일치 여부를 확인할 수 있습니다. 
 <summary>
