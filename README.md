@@ -103,6 +103,6 @@
 
  ## 🧑‍💻 About Contact
 - **Email**: [![Email Badge](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kjw06171@gmail.com)
-- **GitHub**: [![GitHub Badge](https://img.shields.io/badge/GitHub-your--username-blue)](https://github.com/kjw06171)
-- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/Instagram-your--username-purple)](https://www.instagram.com/apply_96)
+- **GitHub**: [![GitHub Badge](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kjw06171)
+- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/apply_96)
 
