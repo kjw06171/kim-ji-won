@@ -102,4 +102,7 @@
  <br>
 
  ## 🧑‍💻 About Contact
- <br>
+- **Email**: [![Email Badge](https://img.shields.io/badge/Email-your-email@example.com-blue)](mailto:your-email@example.com)
+- **GitHub**: [![GitHub Badge](https://img.shields.io/badge/GitHub-your--username-blue)](https://github.com/your-username)
+- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/Instagram-your--username-purple)](https://www.instagram.com/your-username)
+
