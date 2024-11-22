@@ -47,7 +47,27 @@
  
 
  ## 🧑‍💻 Project
- <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="2%" /> 프로젝트 소개
-
+  <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="2%" /> **프로젝트 소개**
+  
 이 프로젝트는 몬티홀 문제(Monty Hall Problem)를 시뮬레이션하고, 두 가지 전략(선택 유지 vs 선택 변경)의 승리 확률을 비교하는 프로그램입니다. 사용자가 실험 횟수를 입력하면 시뮬레이션을 실행하고, 결과를 막대그래프로 시각화합니다. 이를 통해 이론적 확률과 실제 결과의 일치 여부를 확인할 수 있습니다. 
+
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="2%" />
+
+
+-몬티홀 문제의 검증:
+
+"선택을 유지"와 "선택을 변경" 전략 간의 승리 확률을 시뮬레이션으로 증명.
+이론적 승리 확률(33.3% vs 66.7%)과의 일치 여부 확인.
+
+-사용자 친화적 인터페이스 제공:
+
+반복 횟수를 사용자로부터 입력받아 원하는 규모의 실험을 실행.
+결과를 시각적으로 표시하여 데이터의 직관적 이해 지원.
+
+-프로그래밍 학습 및 응용:
+
+확률 문제의 코딩 구현 및 시각화 기법 연습.
+Python의 random, matplotlib 라이브러리 활용 능력 강화.
+
